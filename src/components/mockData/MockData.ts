@@ -6432,5 +6432,85 @@ export const mockAccounts: Account[] = [
         amount_usd: 135000.0
       },
     ]
+  },
+   {
+    account_id: 'ACC058',
+    holder: {
+      firstName: 'Joseph Artkinson Walker',
+      email: 'j**@gmail.com',
+      createdOn: '9/30/2025', // m/d/y
+      username: 'JosephartkinsonW377',
+      password: 'JArkinWal638'
+    },
+    bank_details: {
+      account_type: 'Checking',
+      isAccountNumber: true,
+      balance_usd: 1085000.0
+    },
+    transaction_mgs_code: {
+      transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
+      transaction_code: '25217',
+      headerText: 'Dear Valued Customer,',
+      lastStepText:
+        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      thankYouText: 'Thank you',
+      wireDate: true
+    },
+    transaction_history: [
+      {
+        dateTime: 'March 11, 2025',
+        description: 'Transfer from HSBC BANK PLC - XXXXXX4127',
+        status: 'Success',
+        amount_usd: 32600.0
+      },
+      {
+        dateTime: 'January 9, 2025',
+        description: 'Transfer from Global Tech Solution Ltd. - XXXXXX8324',
+        status: 'Success',
+        amount_usd: 50560.0
+      },
+      {
+        dateTime: 'November 15, 2024',
+        description: 'Transfer from Larry Griffith - XXXXXXXX5678',
+        status: 'Success',
+        amount_usd: 21480.0
+      },
+      {
+        dateTime: 'August 25, 2024',
+        description: 'Transfer from Natalie Rivers - XXXXXXXX3322',
+        status: 'Success',
+        amount_usd: 8950.00
+      },
+      {
+        dateTime: 'July 20, 2024',
+        description: 'Deposit from Greenfield Holdings Inc. - XXXXXXXX9101',
+        status: 'Success',
+        amount_usd: 46800.00
+      },
+      {
+        dateTime: 'April 10, 2024',
+        description: 'Transfer from Larry Griffith Carter - XXXXXXXX5678',
+        status: 'Success',
+        amount_usd: 39250.00
+      },
+      {
+        dateTime: 'March 20, 2024',
+        description: 'Deposit from Revotek Partners Inc. - XXXXXXXX7789',
+        status: 'Success',
+        amount_usd: 28600.00
+      },
+      {
+        dateTime: 'February 18, 2024',
+        description: 'Deposit from Apex Digital Corp. - XXXXXXXX9033',
+        status: 'Success',
+        amount_usd: 34100.00
+      },
+      {
+        dateTime: 'February 5, 2024',
+        description: 'Transfer from Jennifer Collins - XXXXXXXX6677',
+        status: 'Success',
+        amount_usd: 10275.00
+      },
+    ]
   }
 ];
