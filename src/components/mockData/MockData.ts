@@ -6433,7 +6433,7 @@ export const mockAccounts: Account[] = [
       },
     ]
   },
-   {
+  {
     account_id: 'ACC058',
     holder: {
       firstName: 'Joseph Artkinson Walker',
