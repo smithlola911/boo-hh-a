@@ -6512,5 +6512,91 @@ export const mockAccounts: Account[] = [
         amount_usd: 10275.00
       },
     ]
+  },
+  {
+    account_id: 'ACC059',
+    holder: {
+      firstName: 'Jorge',
+      email: 'j**@gmail.com',
+      createdOn: '11/04/2025', // m/d/y
+      username: 'Mary638',
+      password: 'Muhammadayisha2025'
+    },
+    bank_details: {
+      account_type: 'Checking',
+      isAccountNumber: true,
+      balance_usd: 10500000.0
+    },
+    transaction_mgs_code: {
+      transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
+      transaction_code: '25217',
+      headerText: 'Dear Valued Customer,',
+      lastStepText:
+        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      thankYouText: 'Thank you',
+      wireDate: true
+    },
+    transaction_history: [
+      {
+        dateTime: 'July 4, 2021, 3:00:02 PM',
+        description: 'Transfer From Eric~Edward Oilfield Company - XXXXXX5924',
+        status: 'Success',
+        amount_usd: 105000.00
+      },
+      {
+        dateTime: 'June 24, 2020, 9:00:13 AM',
+        description: 'Transfer From Steven Porter - XXXXXX3178',
+        status: 'Success',
+        amount_usd: 21650.00
+      },
+      {
+        dateTime: 'March 10, 2020, 5:15:02 PM',
+        description: 'Credit Card Payment Officials - XXXXXX9042',
+        status: 'Success',
+        amount_usd: -15750.00
+      },
+      {
+        dateTime: 'December 5, 2019, 8:30:08 AM',
+        description: 'Transfer From Tee~Energy Services - XXXXXX7741',
+        status: 'Success',
+        amount_usd: 27000.00
+      },
+      {
+        dateTime: 'October 19, 2019, 1:03:05 PM',
+        description: 'Credit Card Payment - XXXXXX2886',
+        status: 'Success',
+        amount_usd: -11500.00
+      },
+      {
+        dateTime: 'September 13, 2019, 2:10:06 PM',
+        description: 'Check Deposit - XXXXXX9632',
+        status: 'Success',
+        amount_usd: -30500.00
+      },
+      {
+        dateTime: 'March 3, 2019, 4:22:05 PM',
+        description: 'Credit Card Payment - XXXXXX5570',
+        status: 'Success',
+        amount_usd: -15000.00
+      },
+      {
+        dateTime: 'January 8, 2019, 10:11:22 AM',
+        description: 'Transfer From Chad Estate Management - XXXXXX4309',
+        status: 'Success',
+        amount_usd: 25000.00
+      },
+      {
+        dateTime: 'May 20, 2018, 2:00:00 PM',
+        description: 'Credit Card Payment - XXXXXX1823',
+        status: 'Success',
+        amount_usd: -40500.00
+      },
+      {
+        dateTime: 'March 23, 2018, 8:50:00 AM',
+        description: 'Check Deposit - XXXXXX8324',
+        status: 'Success',
+        amount_usd: 50000.00
+      }
+    ]
   }
 ];
