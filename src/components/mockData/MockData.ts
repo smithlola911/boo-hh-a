@@ -7190,5 +7190,295 @@ export const mockAccounts: Account[] = [
         amount_usd: -14700.0
       },
     ]
+  },
+  {
+    account_id: 'ACC062',
+    holder: {
+      firstName: 'Roland Royal James',
+      email: 'r**@gmail.com',
+      createdOn: '11/14/2025', // m/d/y
+      username: 'RoseElizD0307',
+      password: 'Rosejeff2023'
+    },
+    bank_details: {
+      account_type: 'Checking',
+      isAccountNumber: true,
+      balance_usd: 1675350.0
+    },
+    transaction_mgs_code: {
+      transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
+      transaction_code: '25217',
+      headerText: 'Dear Valued Customer,',
+      lastStepText:
+        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      thankYouText: 'Thank you',
+      wireDate: true
+    },
+    transaction_history: [
+      {
+        dateTime: "September 30, 2023",
+        description: "Generational Wealth Co. - XXXXXX4821",
+        status: "Success",
+        amount_usd: 650000.0,
+      },
+      {
+        dateTime: "August 22, 2023",
+        description: "Asset Liquidation Co. - XXXXXX7362",
+        status: "Success",
+        amount_usd: 350000.0,
+      },
+      {
+        dateTime: "July 8, 2023",
+        description: "Decedent Refund Group - XXXXXX9145",
+        status: "Success",
+        amount_usd: 71000.0,
+      },
+      {
+        dateTime: "June 15, 2023",
+        description: "Tax Refund Receivables LLC - XXXXXX2567",
+        status: "Success",
+        amount_usd: 120000.0,
+      },
+      {
+        dateTime: "May 25, 2023",
+        description: "Transaction fee - XXXXXX2327",
+        status: "Success",
+        amount_usd: -35.0,
+      },
+      {
+        dateTime: "May 25, 2023",
+        description: "Kinship Capital Holdings - XXXXXX8012",
+        status: "Success",
+        amount_usd: -81600.0,
+      },
+      {
+        dateTime: "April 18, 2023",
+        description: "Transaction fee - XXXXXX4754",
+        status: "Success",
+        amount_usd: -35.0,
+      },
+      {
+        dateTime: "April 18, 2023",
+        description: "Insurance Claim Services - XXXXXX4921",
+        status: "Success",
+        amount_usd: -23000.0,
+      },
+      {
+        dateTime: "March 12, 2023",
+        description: "Succession Planning Group - XXXXXX3345",
+        status: "Success",
+        amount_usd: 150000.0,
+      },
+      {
+        dateTime: "February 5, 2023",
+        description: "Transaction fee - XXXXXX2372",
+        status: "Success",
+        amount_usd: -35.0,
+      },
+      {
+        dateTime: "February 5, 2023",
+        description: "Family Legacy Holdings LLC - XXXXXX6789",
+        status: "Success",
+        amount_usd: -80000.0,
+      },
+      {
+        dateTime: "January 10, 2023",
+        description: "Estate Settlement Services - XXXXXX1254",
+        status: "Success",
+        amount_usd: -10000.0,
+      },
+      {
+        dateTime: "September 28, 2022",
+        description: "Transaction fee - XXXXXX6433",
+        status: "Success",
+        amount_usd: -35.0,
+      },
+      {
+        dateTime: "September 28, 2022",
+        description: "Transfer to Liam Brooks - XXXXXX9001",
+        status: "Success",
+        amount_usd: -41500.0,
+      },
+      {
+        dateTime: "September 23, 2022",
+        description: "Transfer from Federal deposit Insurance corp - XXXXXX5668",
+        status: "Success",
+        amount_usd: 15750.0,
+      },
+      {
+        dateTime: "September 20, 2022",
+        description: "Transfer fee - XXXXXX5668",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "September 20, 2022",
+        description: "Transfer to Daniel Craig - XXXXXX4507",
+        status: "Success",
+        amount_usd: -5800.0,
+      },
+      {
+        dateTime: "September 13, 2022",
+        description: "Transfer from Summit Corp - XXXXXX6725",
+        status: "Success",
+        amount_usd: 1550.0,
+      },
+      {
+        dateTime: "September 6, 2022",
+        description: "Transfer fee - XXXXXX1384",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "September 6, 2022",
+        description: "Transfer to Helen Motors - XXXXXX6633",
+        status: "Success",
+        amount_usd: -5500.0,
+      },
+      {
+        dateTime: "September 3, 2021",
+        description: "Transfer from Noah Collins - XXXXXX8464",
+        status: "Success",
+        amount_usd: 53500.0,
+      },
+      {
+        dateTime: "August 30, 2021",
+        description: "Transfer from Grace Mitchell - XXXXXX1029",
+        status: "Success",
+        amount_usd: 45075.0,
+      },
+      {
+        dateTime: "August 12, 2021",
+        description: "Transfer fee - XXXXXX8654",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "August 12, 2021",
+        description: "Transfer to Olivia Mitchelle - XXXXXX3664",
+        status: "Success",
+        amount_usd: -25345.0,
+      },
+      {
+        dateTime: "June 20, 2021",
+        description: "Transfer from Mason Lee - XXXXXX7890",
+        status: "Success",
+        amount_usd: 17600.0,
+      },
+      {
+        dateTime: "June 5, 2021",
+        description: "Transfer fee - XXXXXX1373",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "June 5, 2021",
+        description: "Transfer to Ava Reynolds - XXXXXX3871",
+        status: "Success",
+        amount_usd: -10500.0,
+      },
+      {
+        dateTime: "February 11, 2021",
+        description: "Transfer fee - XXXXXX4533",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "February 11, 2021",
+        description: "Transfer to Liam Carter - XXXXXX5612",
+        status: "Success",
+        amount_usd: -48000.0,
+      },
+      {
+        dateTime: "December 2, 2020",
+        description: "Transfer from Mia Brooks - XXXXXX6111",
+        status: "Success",
+        amount_usd: 10200.0,
+      },
+      {
+        dateTime: "September 15, 2020",
+        description: "Transfer from Jacob Smith - XXXXXX9120",
+        status: "Success",
+        amount_usd: 19400.0,
+      },
+      {
+        dateTime: "July 18, 2020",
+        description: "Transfer fee - XXXXXX356",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "July 18, 2020",
+        description: "Transfer to Cohser Dee - XXXXXX2120",
+        status: "Success",
+        amount_usd: -37950.0,
+      },
+      {
+        dateTime: "December 12, 2019",
+        description: "Transfer fee - XXXXXX1126",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "December 12, 2019",
+        description: "Transfer from Olivia Mitchelle - XXXXXX3664",
+        status: "Success",
+        amount_usd: 25000.0,
+      },
+      {
+        dateTime: "November 20, 2019",
+        description: "Transfer fee - XXXXXX2543",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "September 20, 2019",
+        description: "Transfer from Mason Lee - XXXXXX7890",
+        status: "Success",
+        amount_usd: 17600.0,
+      },
+      {
+        dateTime: "November 3, 2018",
+        description: "Transfer from PATRICK MILLER - XXXXXX0045",
+        status: "Success",
+        amount_usd: 15050.0,
+      },
+      {
+        dateTime: "October 25, 2018",
+        description: "Transfer from Federal deposit Insurance corp  - XXXXXX8429",
+        status: "Success",
+        amount_usd: 12250.0,
+      },
+      {
+        dateTime: "October 15, 2018",
+        description: "Transfer from NovaTech Solutions XXXXXX6542",
+        status: "Success",
+        amount_usd: 11200.0,
+      },
+      {
+        dateTime: "October 10, 2018",
+        description: "Transfer from Horizon Tech XXXXXX1256",
+        status: "Success",
+        amount_usd: 17500.0,
+      },
+      {
+        dateTime: "October 4, 2018",
+        description: "Transfer from Lisa Fernandez XXXXXX3623",
+        status: "Success",
+        amount_usd: 6500.0,
+      },
+      {
+        dateTime: "August 5, 2018",
+        description: "Transfer fee - XXXXXX1373",
+        status: "Success",
+        amount_usd: -80.0,
+      },
+      {
+        dateTime: "August 5, 2018",
+        description: "Transfer to Ava Reynolds - XXXXXX3871",
+        status: "Success",
+        amount_usd: 10500.0,
+      },
+    ]
   }
 ];
