@@ -7197,8 +7197,8 @@ export const mockAccounts: Account[] = [
       firstName: 'Distelhorst Roselyn Elizabeth',
       email: 'r**@gmail.com',
       createdOn: '11/14/2025', // m/d/y
-      username: 'l',
-      password: 'l'
+      username: 'RoseElizD0307',
+      password: 'Rosejeff2023'
     },
     bank_details: {
       account_type: 'Checking',
