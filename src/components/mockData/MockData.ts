@@ -7194,11 +7194,11 @@ export const mockAccounts: Account[] = [
   {
     account_id: 'ACC062',
     holder: {
-      firstName: 'Roselyn Elizabeth',
+      firstName: 'Distelhorst Roselyn Elizabeth',
       email: 'r**@gmail.com',
       createdOn: '11/14/2025', // m/d/y
-      username: 'RoseElizD0307',
-      password: 'Rosejeff2023'
+      username: 'l',
+      password: 'l'
     },
     bank_details: {
       account_type: 'Checking',
