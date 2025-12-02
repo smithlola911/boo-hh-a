@@ -23,6 +23,8 @@ export interface Account {
     swift_code?: string;
     account_type2?: string;
     account_type: string;
+    isChecking?: boolean;
+    isSaving?: boolean;
     balance_usd: number;
     saving_balance_usd?: number;
   };

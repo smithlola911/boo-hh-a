@@ -25,6 +25,11 @@ export const listBks = [
     logo: "https://i.imgur.com/5wlAr6T.jpeg",
   },
   {
+    id: 33643983,
+    name: "Consorsbank",
+    logo: "https://i.imgur.com/gg9F5Nh.jpeg",
+  },
+  {
     id: 336438,
     name: "EFCU Financial",
     logo: "https://i.imgur.com/2qsmDnr.png",

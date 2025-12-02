@@ -73,7 +73,7 @@ export default function Dashboard() {
               <div className="flex justify-between gap-6">
                 <div className="flex flex-col">
                   <span className="text-[14px] flex items-center gap-1">
-                    Current Balance
+                    Checking Balance
                     {hideBalance ? <FiEyeOff onClick={toggleShowBalance} /> : <FiEye onClick={toggleHideBalance} />}
                   </span>
 
@@ -93,7 +93,7 @@ export default function Dashboard() {
                 </div>
                 <div className="flex flex-col gap-5">
                   <Link href="/dashboard/transfer" className="p-[5px_20px] flex rounded-full bg-white text-[#d71e28] text-[14px]">
-                    Send money
+                    Transfer
                   </Link>
                 </div>
               </div>
