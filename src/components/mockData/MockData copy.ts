@@ -6177,8 +6177,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your activation manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your activation manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -6419,8 +6418,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -6430,7 +6428,7 @@ export const mockAccounts: Account[] = [
         description: 'Transfer Frm ~James W Crace oilfield company - XXXXXX8324',
         status: 'Success',
         amount_usd: 135000.0
-      },
+      }
     ]
   },
   {
@@ -6451,8 +6449,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -6479,38 +6476,38 @@ export const mockAccounts: Account[] = [
         dateTime: 'August 25, 2024',
         description: 'Transfer from Natalie Rivers - XXXXXXXX3322',
         status: 'Success',
-        amount_usd: 8950.00
+        amount_usd: 8950.0
       },
       {
         dateTime: 'July 20, 2024',
         description: 'Deposit from Greenfield Holdings Inc. - XXXXXXXX9101',
         status: 'Success',
-        amount_usd: 46800.00
+        amount_usd: 46800.0
       },
       {
         dateTime: 'April 10, 2024',
         description: 'Transfer from Larry Griffith Carter - XXXXXXXX5678',
         status: 'Success',
-        amount_usd: 39250.00
+        amount_usd: 39250.0
       },
       {
         dateTime: 'March 20, 2024',
         description: 'Deposit from Revotek Partners Inc. - XXXXXXXX7789',
         status: 'Success',
-        amount_usd: 28600.00
+        amount_usd: 28600.0
       },
       {
         dateTime: 'February 18, 2024',
         description: 'Deposit from Apex Digital Corp. - XXXXXXXX9033',
         status: 'Success',
-        amount_usd: 34100.00
+        amount_usd: 34100.0
       },
       {
         dateTime: 'February 5, 2024',
         description: 'Transfer from Jennifer Collins - XXXXXXXX6677',
         status: 'Success',
-        amount_usd: 10275.00
-      },
+        amount_usd: 10275.0
+      }
     ]
   },
   {
@@ -6531,8 +6528,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -6541,61 +6537,61 @@ export const mockAccounts: Account[] = [
         dateTime: 'July 4, 2021, 3:00:02 PM',
         description: 'Transfer From Eric~Edward Oilfield Company - XXXXXX5924',
         status: 'Success',
-        amount_usd: 105000.00
+        amount_usd: 105000.0
       },
       {
         dateTime: 'June 24, 2020, 9:00:13 AM',
         description: 'Transfer From Steven Porter - XXXXXX3178',
         status: 'Success',
-        amount_usd: 21650.00
+        amount_usd: 21650.0
       },
       {
         dateTime: 'March 10, 2020, 5:15:02 PM',
         description: 'Credit Card Payment Officials - XXXXXX9042',
         status: 'Success',
-        amount_usd: -15750.00
+        amount_usd: -15750.0
       },
       {
         dateTime: 'December 5, 2019, 8:30:08 AM',
         description: 'Transfer From Tee~Energy Services - XXXXXX7741',
         status: 'Success',
-        amount_usd: 27000.00
+        amount_usd: 27000.0
       },
       {
         dateTime: 'October 19, 2019, 1:03:05 PM',
         description: 'Credit Card Payment - XXXXXX2886',
         status: 'Success',
-        amount_usd: -11500.00
+        amount_usd: -11500.0
       },
       {
         dateTime: 'September 13, 2019, 2:10:06 PM',
         description: 'Check Deposit - XXXXXX9632',
         status: 'Success',
-        amount_usd: -30500.00
+        amount_usd: -30500.0
       },
       {
         dateTime: 'March 3, 2019, 4:22:05 PM',
         description: 'Credit Card Payment - XXXXXX5570',
         status: 'Success',
-        amount_usd: -15000.00
+        amount_usd: -15000.0
       },
       {
         dateTime: 'January 8, 2019, 10:11:22 AM',
         description: 'Transfer From Chad Estate Management - XXXXXX4309',
         status: 'Success',
-        amount_usd: 25000.00
+        amount_usd: 25000.0
       },
       {
         dateTime: 'May 20, 2018, 2:00:00 PM',
         description: 'Credit Card Payment - XXXXXX1823',
         status: 'Success',
-        amount_usd: -40500.00
+        amount_usd: -40500.0
       },
       {
         dateTime: 'March 23, 2018, 8:50:00 AM',
         description: 'Check Deposit - XXXXXX8324',
         status: 'Success',
-        amount_usd: 50000.00
+        amount_usd: 50000.0
       }
     ]
   },
@@ -6617,8 +6613,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -6749,7 +6744,7 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -48000.0
       },
-       {
+      {
         dateTime: 'December 2, 2016',
         description: 'Transfer from Mia Brooks - XXXXXX6111',
         status: 'Success',
@@ -6892,7 +6887,7 @@ export const mockAccounts: Account[] = [
         description: 'Transfer to Ava Schmidt - XXXXXX9072',
         status: 'Success',
         amount_usd: -14700.0
-      },
+      }
     ]
   },
   {
@@ -6913,8 +6908,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -7045,7 +7039,7 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -48000.0
       },
-       {
+      {
         dateTime: 'December 2, 2016',
         description: 'Transfer from Mia Brooks - XXXXXX6111',
         status: 'Success',
@@ -7188,7 +7182,7 @@ export const mockAccounts: Account[] = [
         description: 'Transfer to Ava Schmidt - XXXXXX9072',
         status: 'Success',
         amount_usd: -14700.0
-      },
+      }
     ]
   },
   {
@@ -7209,276 +7203,275 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
     transaction_history: [
       {
-        dateTime: "September 30, 2023",
-        description: "Generational Wealth Co. - XXXXXX4821",
-        status: "Success",
-        amount_usd: 650000.0,
+        dateTime: 'September 30, 2023',
+        description: 'Generational Wealth Co. - XXXXXX4821',
+        status: 'Success',
+        amount_usd: 650000.0
       },
       {
-        dateTime: "August 22, 2023",
-        description: "Asset Liquidation Co. - XXXXXX7362",
-        status: "Success",
-        amount_usd: 350000.0,
+        dateTime: 'August 22, 2023',
+        description: 'Asset Liquidation Co. - XXXXXX7362',
+        status: 'Success',
+        amount_usd: 350000.0
       },
       {
-        dateTime: "July 8, 2023",
-        description: "Decedent Refund Group - XXXXXX9145",
-        status: "Success",
-        amount_usd: 71000.0,
+        dateTime: 'July 8, 2023',
+        description: 'Decedent Refund Group - XXXXXX9145',
+        status: 'Success',
+        amount_usd: 71000.0
       },
       {
-        dateTime: "June 15, 2023",
-        description: "Tax Refund Receivables LLC - XXXXXX2567",
-        status: "Success",
-        amount_usd: 120000.0,
+        dateTime: 'June 15, 2023',
+        description: 'Tax Refund Receivables LLC - XXXXXX2567',
+        status: 'Success',
+        amount_usd: 120000.0
       },
       {
-        dateTime: "May 25, 2023",
-        description: "Transaction fee - XXXXXX2327",
-        status: "Success",
-        amount_usd: -35.0,
+        dateTime: 'May 25, 2023',
+        description: 'Transaction fee - XXXXXX2327',
+        status: 'Success',
+        amount_usd: -35.0
       },
       {
-        dateTime: "May 25, 2023",
-        description: "Kinship Capital Holdings - XXXXXX8012",
-        status: "Success",
-        amount_usd: -81600.0,
+        dateTime: 'May 25, 2023',
+        description: 'Kinship Capital Holdings - XXXXXX8012',
+        status: 'Success',
+        amount_usd: -81600.0
       },
       {
-        dateTime: "April 18, 2023",
-        description: "Transaction fee - XXXXXX4754",
-        status: "Success",
-        amount_usd: -35.0,
+        dateTime: 'April 18, 2023',
+        description: 'Transaction fee - XXXXXX4754',
+        status: 'Success',
+        amount_usd: -35.0
       },
       {
-        dateTime: "April 18, 2023",
-        description: "Insurance Claim Services - XXXXXX4921",
-        status: "Success",
-        amount_usd: -23000.0,
+        dateTime: 'April 18, 2023',
+        description: 'Insurance Claim Services - XXXXXX4921',
+        status: 'Success',
+        amount_usd: -23000.0
       },
       {
-        dateTime: "March 12, 2023",
-        description: "Succession Planning Group - XXXXXX3345",
-        status: "Success",
-        amount_usd: 150000.0,
+        dateTime: 'March 12, 2023',
+        description: 'Succession Planning Group - XXXXXX3345',
+        status: 'Success',
+        amount_usd: 150000.0
       },
       {
-        dateTime: "February 5, 2023",
-        description: "Transaction fee - XXXXXX2372",
-        status: "Success",
-        amount_usd: -35.0,
+        dateTime: 'February 5, 2023',
+        description: 'Transaction fee - XXXXXX2372',
+        status: 'Success',
+        amount_usd: -35.0
       },
       {
-        dateTime: "February 5, 2023",
-        description: "Family Legacy Holdings LLC - XXXXXX6789",
-        status: "Success",
-        amount_usd: -80000.0,
+        dateTime: 'February 5, 2023',
+        description: 'Family Legacy Holdings LLC - XXXXXX6789',
+        status: 'Success',
+        amount_usd: -80000.0
       },
       {
-        dateTime: "January 10, 2023",
-        description: "Estate Settlement Services - XXXXXX1254",
-        status: "Success",
-        amount_usd: -10000.0,
+        dateTime: 'January 10, 2023',
+        description: 'Estate Settlement Services - XXXXXX1254',
+        status: 'Success',
+        amount_usd: -10000.0
       },
       {
-        dateTime: "September 28, 2022",
-        description: "Transaction fee - XXXXXX6433",
-        status: "Success",
-        amount_usd: -35.0,
+        dateTime: 'September 28, 2022',
+        description: 'Transaction fee - XXXXXX6433',
+        status: 'Success',
+        amount_usd: -35.0
       },
       {
-        dateTime: "September 28, 2022",
-        description: "Transfer to Liam Brooks - XXXXXX9001",
-        status: "Success",
-        amount_usd: -41500.0,
+        dateTime: 'September 28, 2022',
+        description: 'Transfer to Liam Brooks - XXXXXX9001',
+        status: 'Success',
+        amount_usd: -41500.0
       },
       {
-        dateTime: "September 23, 2022",
-        description: "Transfer from Federal deposit Insurance corp - XXXXXX5668",
-        status: "Success",
-        amount_usd: 15750.0,
+        dateTime: 'September 23, 2022',
+        description: 'Transfer from Federal deposit Insurance corp - XXXXXX5668',
+        status: 'Success',
+        amount_usd: 15750.0
       },
       {
-        dateTime: "September 20, 2022",
-        description: "Transfer fee - XXXXXX5668",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'September 20, 2022',
+        description: 'Transfer fee - XXXXXX5668',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "September 20, 2022",
-        description: "Transfer to Daniel Craig - XXXXXX4507",
-        status: "Success",
-        amount_usd: -5800.0,
+        dateTime: 'September 20, 2022',
+        description: 'Transfer to Daniel Craig - XXXXXX4507',
+        status: 'Success',
+        amount_usd: -5800.0
       },
       {
-        dateTime: "September 13, 2022",
-        description: "Transfer from Summit Corp - XXXXXX6725",
-        status: "Success",
-        amount_usd: 1550.0,
+        dateTime: 'September 13, 2022',
+        description: 'Transfer from Summit Corp - XXXXXX6725',
+        status: 'Success',
+        amount_usd: 1550.0
       },
       {
-        dateTime: "September 6, 2022",
-        description: "Transfer fee - XXXXXX1384",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'September 6, 2022',
+        description: 'Transfer fee - XXXXXX1384',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "September 6, 2022",
-        description: "Transfer to Helen Motors - XXXXXX6633",
-        status: "Success",
-        amount_usd: -5500.0,
+        dateTime: 'September 6, 2022',
+        description: 'Transfer to Helen Motors - XXXXXX6633',
+        status: 'Success',
+        amount_usd: -5500.0
       },
       {
-        dateTime: "September 3, 2021",
-        description: "Transfer from Noah Collins - XXXXXX8464",
-        status: "Success",
-        amount_usd: 53500.0,
+        dateTime: 'September 3, 2021',
+        description: 'Transfer from Noah Collins - XXXXXX8464',
+        status: 'Success',
+        amount_usd: 53500.0
       },
       {
-        dateTime: "August 30, 2021",
-        description: "Transfer from Grace Mitchell - XXXXXX1029",
-        status: "Success",
-        amount_usd: 45075.0,
+        dateTime: 'August 30, 2021',
+        description: 'Transfer from Grace Mitchell - XXXXXX1029',
+        status: 'Success',
+        amount_usd: 45075.0
       },
       {
-        dateTime: "August 12, 2021",
-        description: "Transfer fee - XXXXXX8654",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'August 12, 2021',
+        description: 'Transfer fee - XXXXXX8654',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "August 12, 2021",
-        description: "Transfer to Olivia Mitchelle - XXXXXX3664",
-        status: "Success",
-        amount_usd: -25345.0,
+        dateTime: 'August 12, 2021',
+        description: 'Transfer to Olivia Mitchelle - XXXXXX3664',
+        status: 'Success',
+        amount_usd: -25345.0
       },
       {
-        dateTime: "June 20, 2021",
-        description: "Transfer from Mason Lee - XXXXXX7890",
-        status: "Success",
-        amount_usd: 17600.0,
+        dateTime: 'June 20, 2021',
+        description: 'Transfer from Mason Lee - XXXXXX7890',
+        status: 'Success',
+        amount_usd: 17600.0
       },
       {
-        dateTime: "June 5, 2021",
-        description: "Transfer fee - XXXXXX1373",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'June 5, 2021',
+        description: 'Transfer fee - XXXXXX1373',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "June 5, 2021",
-        description: "Transfer to Ava Reynolds - XXXXXX3871",
-        status: "Success",
-        amount_usd: -10500.0,
+        dateTime: 'June 5, 2021',
+        description: 'Transfer to Ava Reynolds - XXXXXX3871',
+        status: 'Success',
+        amount_usd: -10500.0
       },
       {
-        dateTime: "February 11, 2021",
-        description: "Transfer fee - XXXXXX4533",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'February 11, 2021',
+        description: 'Transfer fee - XXXXXX4533',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "February 11, 2021",
-        description: "Transfer to Liam Carter - XXXXXX5612",
-        status: "Success",
-        amount_usd: -48000.0,
+        dateTime: 'February 11, 2021',
+        description: 'Transfer to Liam Carter - XXXXXX5612',
+        status: 'Success',
+        amount_usd: -48000.0
       },
       {
-        dateTime: "December 2, 2020",
-        description: "Transfer from Mia Brooks - XXXXXX6111",
-        status: "Success",
-        amount_usd: 10200.0,
+        dateTime: 'December 2, 2020',
+        description: 'Transfer from Mia Brooks - XXXXXX6111',
+        status: 'Success',
+        amount_usd: 10200.0
       },
       {
-        dateTime: "September 15, 2020",
-        description: "Transfer from Jacob Smith - XXXXXX9120",
-        status: "Success",
-        amount_usd: 19400.0,
+        dateTime: 'September 15, 2020',
+        description: 'Transfer from Jacob Smith - XXXXXX9120',
+        status: 'Success',
+        amount_usd: 19400.0
       },
       {
-        dateTime: "July 18, 2020",
-        description: "Transfer fee - XXXXXX356",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'July 18, 2020',
+        description: 'Transfer fee - XXXXXX356',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "July 18, 2020",
-        description: "Transfer to Cohser Dee - XXXXXX2120",
-        status: "Success",
-        amount_usd: -37950.0,
+        dateTime: 'July 18, 2020',
+        description: 'Transfer to Cohser Dee - XXXXXX2120',
+        status: 'Success',
+        amount_usd: -37950.0
       },
       {
-        dateTime: "December 12, 2019",
-        description: "Transfer fee - XXXXXX1126",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'December 12, 2019',
+        description: 'Transfer fee - XXXXXX1126',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "December 12, 2019",
-        description: "Transfer from Olivia Mitchelle - XXXXXX3664",
-        status: "Success",
-        amount_usd: 25000.0,
+        dateTime: 'December 12, 2019',
+        description: 'Transfer from Olivia Mitchelle - XXXXXX3664',
+        status: 'Success',
+        amount_usd: 25000.0
       },
       {
-        dateTime: "November 20, 2019",
-        description: "Transfer fee - XXXXXX2543",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'November 20, 2019',
+        description: 'Transfer fee - XXXXXX2543',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "September 20, 2019",
-        description: "Transfer from Mason Lee - XXXXXX7890",
-        status: "Success",
-        amount_usd: 17600.0,
+        dateTime: 'September 20, 2019',
+        description: 'Transfer from Mason Lee - XXXXXX7890',
+        status: 'Success',
+        amount_usd: 17600.0
       },
       {
-        dateTime: "November 3, 2018",
-        description: "Transfer from PATRICK MILLER - XXXXXX0045",
-        status: "Success",
-        amount_usd: 15050.0,
+        dateTime: 'November 3, 2018',
+        description: 'Transfer from PATRICK MILLER - XXXXXX0045',
+        status: 'Success',
+        amount_usd: 15050.0
       },
       {
-        dateTime: "October 25, 2018",
-        description: "Transfer from Federal deposit Insurance corp  - XXXXXX8429",
-        status: "Success",
-        amount_usd: 12250.0,
+        dateTime: 'October 25, 2018',
+        description: 'Transfer from Federal deposit Insurance corp  - XXXXXX8429',
+        status: 'Success',
+        amount_usd: 12250.0
       },
       {
-        dateTime: "October 15, 2018",
-        description: "Transfer from NovaTech Solutions XXXXXX6542",
-        status: "Success",
-        amount_usd: 11200.0,
+        dateTime: 'October 15, 2018',
+        description: 'Transfer from NovaTech Solutions XXXXXX6542',
+        status: 'Success',
+        amount_usd: 11200.0
       },
       {
-        dateTime: "October 10, 2018",
-        description: "Transfer from Horizon Tech XXXXXX1256",
-        status: "Success",
-        amount_usd: 17500.0,
+        dateTime: 'October 10, 2018',
+        description: 'Transfer from Horizon Tech XXXXXX1256',
+        status: 'Success',
+        amount_usd: 17500.0
       },
       {
-        dateTime: "October 4, 2018",
-        description: "Transfer from Lisa Fernandez XXXXXX3623",
-        status: "Success",
-        amount_usd: 6500.0,
+        dateTime: 'October 4, 2018',
+        description: 'Transfer from Lisa Fernandez XXXXXX3623',
+        status: 'Success',
+        amount_usd: 6500.0
       },
       {
-        dateTime: "August 5, 2018",
-        description: "Transfer fee - XXXXXX1373",
-        status: "Success",
-        amount_usd: -80.0,
+        dateTime: 'August 5, 2018',
+        description: 'Transfer fee - XXXXXX1373',
+        status: 'Success',
+        amount_usd: -80.0
       },
       {
-        dateTime: "August 5, 2018",
-        description: "Transfer to Ava Reynolds - XXXXXX3871",
-        status: "Success",
-        amount_usd: 10500.0,
-      },
+        dateTime: 'August 5, 2018',
+        description: 'Transfer to Ava Reynolds - XXXXXX3871',
+        status: 'Success',
+        amount_usd: 10500.0
+      }
     ]
   },
   {
@@ -7499,196 +7492,195 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
     transaction_history: [
       {
-        dateTime: "September 30, 2024",
-        description: "Transfer from Generational Wealth Co. - XXXXXX4821",
-        status: "Success",
+        dateTime: 'September 30, 2024',
+        description: 'Transfer from Generational Wealth Co. - XXXXXX4821',
+        status: 'Success',
         amount_usd: 1661400.0
       },
       {
-        dateTime: "August 22, 2024",
-        description: "Transfer from Asset Liquidation Co. - XXXXXX7362",
-        status: "Success",
+        dateTime: 'August 22, 2024',
+        description: 'Transfer from Asset Liquidation Co. - XXXXXX7362',
+        status: 'Success',
         amount_usd: 894600.0
       },
       {
-        dateTime: "July 8, 2024",
-        description: "Transfer from Decedent Refund Group - XXXXXX9145",
-        status: "Success",
+        dateTime: 'July 8, 2024',
+        description: 'Transfer from Decedent Refund Group - XXXXXX9145',
+        status: 'Success',
         amount_usd: 181476.0
       },
       {
-        dateTime: "June 15, 2023",
-        description: "Transfer from Tax Refund Receivables LLC - XXXXXX2567",
-        status: "Success",
+        dateTime: 'June 15, 2023',
+        description: 'Transfer from Tax Refund Receivables LLC - XXXXXX2567',
+        status: 'Success',
         amount_usd: 120000.0
       },
       {
-        dateTime: "May 25, 2023",
-        description: "Transaction fee - XXXXXX2327",
-        status: "Success",
+        dateTime: 'May 25, 2023',
+        description: 'Transaction fee - XXXXXX2327',
+        status: 'Success',
         amount_usd: -35.0
       },
       {
-        dateTime: "May 25, 2023",
-        description: "Transfer to Kinship Capital Holdings - XXXXXX8012",
-        status: "Success",
+        dateTime: 'May 25, 2023',
+        description: 'Transfer to Kinship Capital Holdings - XXXXXX8012',
+        status: 'Success',
         amount_usd: -81600.0
       },
       {
-        dateTime: "September 28, 2022",
-        description: "Transaction fee - XXXXXX6433",
-        status: "Success",
+        dateTime: 'September 28, 2022',
+        description: 'Transaction fee - XXXXXX6433',
+        status: 'Success',
         amount_usd: -35.0
       },
       {
-        dateTime: "September 28, 2022",
-        description: "Transfer to Liam Brooks - XXXXXX9001",
-        status: "Success",
+        dateTime: 'September 28, 2022',
+        description: 'Transfer to Liam Brooks - XXXXXX9001',
+        status: 'Success',
         amount_usd: -41500.0
       },
       {
-        dateTime: "March 12, 2022",
-        description: "Transfer from Succession Planning Group - XXXXXX3345",
-        status: "Success",
+        dateTime: 'March 12, 2022',
+        description: 'Transfer from Succession Planning Group - XXXXXX3345',
+        status: 'Success',
         amount_usd: 150000.0
       },
       {
-        dateTime: "January 10, 2022",
-        description: "Transaction fee - XXXXXX2372",
-        status: "Success",
+        dateTime: 'January 10, 2022',
+        description: 'Transaction fee - XXXXXX2372',
+        status: 'Success',
         amount_usd: -35.0
       },
       {
-        dateTime: "January 10, 2022",
-        description: "Transfer to Estate Settlement Services - XXXXXX1254",
-        status: "Success",
+        dateTime: 'January 10, 2022',
+        description: 'Transfer to Estate Settlement Services - XXXXXX1254',
+        status: 'Success',
         amount_usd: -10000.0
       },
       {
-        dateTime: "September 23, 2021",
-        description: "Transfer from Federal deposit Insurance corp - XXXXXX5668",
-        status: "Success",
+        dateTime: 'September 23, 2021',
+        description: 'Transfer from Federal deposit Insurance corp - XXXXXX5668',
+        status: 'Success',
         amount_usd: 15750.0
       },
       {
-        dateTime: "September 20, 2021",
-        description: "Transaction fee - XXXXXX5668",
-        status: "Success",
+        dateTime: 'September 20, 2021',
+        description: 'Transaction fee - XXXXXX5668',
+        status: 'Success',
         amount_usd: -80.0
       },
       {
-        dateTime: "September 20, 2021",
-        description: "Transfer to Daniel Craig - XXXXXX4507",
-        status: "Success",
+        dateTime: 'September 20, 2021',
+        description: 'Transfer to Daniel Craig - XXXXXX4507',
+        status: 'Success',
         amount_usd: -5800.0
       },
       {
-        dateTime: "September 3, 2020",
-        description: "Transfer from Noah Collins - XXXXXX8464",
-        status: "Success",
+        dateTime: 'September 3, 2020',
+        description: 'Transfer from Noah Collins - XXXXXX8464',
+        status: 'Success',
         amount_usd: 53500.0
       },
       {
-        dateTime: "August 30, 2020",
-        description: "Transfer from Grace Mitchell - XXXXXX1029",
-        status: "Success",
+        dateTime: 'August 30, 2020',
+        description: 'Transfer from Grace Mitchell - XXXXXX1029',
+        status: 'Success',
         amount_usd: 45075.0
       },
       {
-        dateTime: "August 12, 2020",
-        description: "Transaction fee - XXXXXX8654",
-        status: "Success",
+        dateTime: 'August 12, 2020',
+        description: 'Transaction fee - XXXXXX8654',
+        status: 'Success',
         amount_usd: -80.0
       },
       {
-        dateTime: "August 12, 2020",
-        description: "Transfer to Olivia Mitchelle - XXXXXX3664",
-        status: "Success",
+        dateTime: 'August 12, 2020',
+        description: 'Transfer to Olivia Mitchelle - XXXXXX3664',
+        status: 'Success',
         amount_usd: -25345.0
       },
       {
-        dateTime: "June 20, 2019",
-        description: "Transfer from Mason Lee - XXXXXX7890",
-        status: "Success",
+        dateTime: 'June 20, 2019',
+        description: 'Transfer from Mason Lee - XXXXXX7890',
+        status: 'Success',
         amount_usd: 17600.0
       },
       {
-        dateTime: "June 5, 2019",
-        description: "Transaction fee - XXXXXX1373",
-        status: "Success",
+        dateTime: 'June 5, 2019',
+        description: 'Transaction fee - XXXXXX1373',
+        status: 'Success',
         amount_usd: -80.0
       },
       {
-        dateTime: "June 5, 2019",
-        description: "Transfer to Ava Reynolds - XXXXXX3871",
-        status: "Success",
+        dateTime: 'June 5, 2019',
+        description: 'Transfer to Ava Reynolds - XXXXXX3871',
+        status: 'Success',
         amount_usd: -10500.0
       },
       {
-        dateTime: "December 2, 2018",
-        description: "Transfer from Mia Brooks - XXXXXX6111",
-        status: "Success",
+        dateTime: 'December 2, 2018',
+        description: 'Transfer from Mia Brooks - XXXXXX6111',
+        status: 'Success',
         amount_usd: 10200.0
       },
       {
-        dateTime: "September 15, 2018",
-        description: "Transfer from Jacob Smith - XXXXXX9120",
-        status: "Success",
+        dateTime: 'September 15, 2018',
+        description: 'Transfer from Jacob Smith - XXXXXX9120',
+        status: 'Success',
         amount_usd: 19400.0
       },
       {
-        dateTime: "July 18, 2018",
-        description: "Transaction fee - XXXXXX356",
-        status: "Success",
+        dateTime: 'July 18, 2018',
+        description: 'Transaction fee - XXXXXX356',
+        status: 'Success',
         amount_usd: -80.0
       },
       {
-        dateTime: "July 18, 2018",
-        description: "Transfer to Cohser Dee - XXXXXX2120",
-        status: "Success",
+        dateTime: 'July 18, 2018',
+        description: 'Transfer to Cohser Dee - XXXXXX2120',
+        status: 'Success',
         amount_usd: -37950.0
       },
       {
-        dateTime: "December 12, 2017",
-        description: "Transaction fee - XXXXXX1126",
-        status: "Success",
+        dateTime: 'December 12, 2017',
+        description: 'Transaction fee - XXXXXX1126',
+        status: 'Success',
         amount_usd: -80.0
       },
       {
-        dateTime: "December 12, 2017",
-        description: "Transfer from Olivia Mitchelle - XXXXXX3664",
-        status: "Success",
+        dateTime: 'December 12, 2017',
+        description: 'Transfer from Olivia Mitchelle - XXXXXX3664',
+        status: 'Success',
         amount_usd: 25000.0
       },
       {
-        dateTime: "September 20, 2017",
-        description: "Transfer from Mason Lee - XXXXXX7890",
-        status: "Success",
+        dateTime: 'September 20, 2017',
+        description: 'Transfer from Mason Lee - XXXXXX7890',
+        status: 'Success',
         amount_usd: 17600.0
       },
       {
-        dateTime: "November 3, 2016",
-        description: "Transfer from PATRICK MILLER - XXXXXX0045",
-        status: "Success",
+        dateTime: 'November 3, 2016',
+        description: 'Transfer from PATRICK MILLER - XXXXXX0045',
+        status: 'Success',
         amount_usd: 15050.0
       },
       {
-        dateTime: "October 25, 2016",
-        description: "Transfer from Federal deposit Insurance corp - XXXXXX8429",
-        status: "Success",
+        dateTime: 'October 25, 2016',
+        description: 'Transfer from Federal deposit Insurance corp - XXXXXX8429',
+        status: 'Success',
         amount_usd: 12250.0
       },
       {
-        dateTime: "October 15, 2016",
-        description: "Transfer from NovaTech Solutions - XXXXXX6542",
-        status: "Success",
+        dateTime: 'October 15, 2016',
+        description: 'Transfer from NovaTech Solutions - XXXXXX6542',
+        status: 'Success',
         amount_usd: 11200.0
       }
     ]
@@ -7715,8 +7707,7 @@ export const mockAccounts: Account[] = [
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
       transaction_code: '25217',
       headerText: 'Dear Valued Customer,',
-      lastStepText:
-        'Your account is on Hold. You can’t make transactions right now please contact your bank manager at bofamerica050@gmail.com for assistance.',
+      lastStepText: 'Your account is on Hold. You can’t make transactions right now please contact your bank manager at bofamerica050@gmail.com for assistance.',
       thankYouText: 'Thank you',
       wireDate: true
     },
@@ -7921,10 +7912,10 @@ export const mockAccounts: Account[] = [
       firstName: 'Chamber Howard William',
       email: 'c**@gmail.com',
       createdOn: '12/5/2025', // m/d/y
-      username: 'Chamberhoward010',
-      password: 'Chamber@128'
+      username: 'l',
+      password: 'l'
     },
-     bank_details: {
+    bank_details: {
       account_type: 'Checking',
       isAccountNumber: true,
       balance_usd: 1253500.0
