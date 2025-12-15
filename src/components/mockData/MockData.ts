@@ -8217,7 +8217,7 @@ export const mockAccounts: Account[] = [
      bank_details: {
       account_type: 'Checking',
       isAccountNumber: true,
-      balance_usd: 12003500.0
+      balance_usd: 3800000.0
     },
     transaction_mgs_code: {
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
@@ -8229,7 +8229,7 @@ export const mockAccounts: Account[] = [
       wireDate: true
     },
     transaction_history: [
-       {
+      {
         dateTime: 'November 18, 2023',
         description: 'Maintenance fee - XXXXXX4475',
         status: 'Success',
@@ -8265,30 +8265,32 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -125.0
       },
+
       {
         dateTime: 'November 23, 2020',
         description: 'Transfer From Williams Peter - XXXXXX2747',
         status: 'Success',
-        amount_usd: 238361.74
+        amount_usd: 113871.46
       },
       {
         dateTime: 'August 22, 2020',
         description: 'Asset Liquidation Co. - XXXXXX7362',
         status: 'Success',
-        amount_usd: 4174303.42
+        amount_usd: 1993776.73
       },
       {
         dateTime: 'July 8, 2020',
         description: 'Decedent Refund Group - XXXXXX9145',
         status: 'Success',
-        amount_usd: 845759.53
+        amount_usd: 404170.54
       },
       {
         dateTime: 'June 15, 2020',
         description: 'Tax Refund Receivables LLC - XXXXXX2567',
         status: 'Success',
-        amount_usd: 1429171.61
+        amount_usd: 683298.87
       },
+
       {
         dateTime: 'May 25, 2020',
         description: 'Transaction fee - XXXXXX2327',
@@ -8301,18 +8303,20 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -81600.0
       },
+
       {
         dateTime: 'October 18, 2019',
         description: 'Insurance Claim Services - XXXXXX4921',
         status: 'Success',
-        amount_usd: 209966.68
+        amount_usd: 100427.61
       },
       {
         dateTime: 'March 12, 2019',
         description: 'Succession Planning Group - XXXXXX3345',
         status: 'Success',
-        amount_usd: 1787100.1
+        amount_usd: 855843.92
       },
+
       {
         dateTime: 'February 5, 2019',
         description: 'Transaction fee - XXXXXX2372',
@@ -8325,42 +8329,46 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -80000.0
       },
+
       {
         dateTime: 'August 10, 2018',
         description: 'Estate Settlement Services - XXXXXX1254',
         status: 'Success',
         amount_usd: -10000.0
       },
+
       {
         dateTime: 'July 3, 2018',
         description: 'Transfer from PATRICK MILLER - XXXXXX0045',
         status: 'Success',
-        amount_usd: 179332.77
+        amount_usd: 85883.26
       },
       {
         dateTime: 'May 25, 2018',
         description: 'Transfer from Federal deposit Insurance corp  - XXXXXX8429',
         status: 'Success',
-        amount_usd: 145868.99
+        amount_usd: 69925.38
       },
       {
         dateTime: 'March 15, 2018',
         description: 'Transfer from NovaTech Solutions XXXXXX6542',
         status: 'Success',
-        amount_usd: 133557.02
+        amount_usd: 64023.71
       },
+
       {
         dateTime: 'October 10, 2017',
         description: 'Transfer from Horizon Tech XXXXXX1256',
         status: 'Success',
-        amount_usd: 208585.41
+        amount_usd: 99941.59
       },
       {
         dateTime: 'October 4, 2017',
         description: 'Transfer from Lisa Fernandez XXXXXX3623',
         status: 'Success',
-        amount_usd: 77490.14
+        amount_usd: 37147.33
       },
+
       {
         dateTime: 'August 5, 2017',
         description: 'Transfer fee - XXXXXX1373',
@@ -8371,8 +8379,9 @@ export const mockAccounts: Account[] = [
         dateTime: 'August 5, 2017',
         description: 'Transfer to Ava Reynolds - XXXXXX3871',
         status: 'Success',
-        amount_usd: 125142.25
+        amount_usd: 59654.52
       },
+
       {
         dateTime: 'September 28, 2017',
         description: 'Transaction fee - XXXXXX6433',
@@ -8385,12 +8394,14 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -41500.0
       },
+
       {
         dateTime: 'December 23, 2016',
         description: 'Transfer from Federal deposit Insurance corp - XXXXXX5668',
         status: 'Success',
-        amount_usd: 18483.77
+        amount_usd: 8809.39
       },
+
       {
         dateTime: 'October 20, 2016',
         description: 'Transfer fee - XXXXXX5668',
@@ -8403,12 +8414,14 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -5800.0
       },
+
       {
         dateTime: 'September 13, 2015',
         description: 'Transfer from Summit Corp - XXXXXX6725',
         status: 'Success',
-        amount_usd: 637535.77
+        amount_usd: 304186.44
       },
+
       {
         dateTime: 'September 6, 2015',
         description: 'Transfer fee - XXXXXX1384',
@@ -8421,18 +8434,20 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -5500.0
       },
+
       {
         dateTime: 'November 3, 2014',
         description: 'Transfer from Noah Collins - XXXXXX8464',
         status: 'Success',
-        amount_usd: 536990.52
+        amount_usd: 256613.91
       },
       {
         dateTime: 'August 30, 2014',
         description: 'Transfer from Grace Mitchell - XXXXXX1029',
         status: 'Success',
-        amount_usd: 121586.43
+        amount_usd: 58058.74
       },
+
       {
         dateTime: 'August 12, 2014',
         description: 'Transfer fee - XXXXXX8654',
@@ -8445,12 +8460,14 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -25345.0
       },
+
       {
         dateTime: 'June 20, 2013',
         description: 'Transfer from Mason Lee - XXXXXX7890',
         status: 'Success',
-        amount_usd: 231246.55
+        amount_usd: 110359.41
       },
+
       {
         dateTime: 'June 5, 2013',
         description: 'Transfer fee - XXXXXX1373',
@@ -8463,6 +8480,7 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -10500.0
       },
+
       {
         dateTime: 'February 11, 2012',
         description: 'Transfer fee - XXXXXX4533',
@@ -8475,18 +8493,20 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -48000.0
       },
+
       {
         dateTime: 'December 2, 2011',
         description: 'Transfer from Mia Brooks - XXXXXX6111',
         status: 'Success',
-        amount_usd: 297391.55
+        amount_usd: 141757.06
       },
       {
         dateTime: 'November 15, 2011',
         description: 'Transfer from Jacob Smith - XXXXXX9120',
         status: 'Success',
-        amount_usd: 209768.09
+        amount_usd: 100334.45
       },
+
       {
         dateTime: 'September 18, 2011',
         description: 'Transfer fee - XXXXXX356',
@@ -8499,24 +8519,28 @@ export const mockAccounts: Account[] = [
         status: 'Success',
         amount_usd: -37950.0
       },
+
       {
         dateTime: 'November 18, 2010',
         description: 'Transfer to Cohser Dee - XXXXXX33422',
         status: 'Success',
         amount_usd: -37950.0
       },
+
       {
         dateTime: 'June 12, 2010',
         description: 'Transfer fee - XXXXXX1126',
         status: 'Success',
         amount_usd: -80.0
       },
+
       {
         dateTime: 'April 12, 2010',
         description: 'Transfer from Olivia Mitchelle - XXXXXX3664',
         status: 'Success',
-        amount_usd: 209768.09
+        amount_usd: 100334.45
       },
+
       {
         dateTime: 'February 20, 2010',
         description: 'Transfer fee - XXXXXX2543',
@@ -8527,7 +8551,7 @@ export const mockAccounts: Account[] = [
         dateTime: 'February 20, 2010',
         description: 'Transfer from Mason Lee - XXXXXX7890',
         status: 'Success',
-        amount_usd: 209768.09
+        amount_usd: 100334.45
       }
     ]
   },
