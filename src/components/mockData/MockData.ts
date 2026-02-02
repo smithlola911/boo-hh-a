@@ -8743,13 +8743,14 @@ export const mockAccounts: Account[] = [
       firstName: 'Billy Chrusciel',
       email: 'b**@gmail.com',
       createdOn: '1/29/2026', // m/d/y
+      updatedOn: '2/2/2026', // m/d/y
       username: 'Billy2026',
       password: 'Chrusciel2026'
     },
      bank_details: {
       account_type: 'Checking',
       isAccountNumber: true,
-      balance_usd: 0.0
+      balance_usd: 500.0
     },
     transaction_mgs_code: {
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
@@ -8761,12 +8762,12 @@ export const mockAccounts: Account[] = [
       wireDate: true
     },
     transaction_history: [
-      //  {
-      //   dateTime: 'December 13, 2025',
-      //   description: 'Wegmans account Ltd - XXXXXX4475',
-      //   status: 'Success',
-      //   amount_usd: 5000000.0
-      // },
+       {
+        dateTime: 'January 27, 2026',
+        description: 'Coin flip Deposit - XXXXXX4475',
+        status: 'Success',
+        amount_usd: 500.0
+      },
     ]
   }
 ];
