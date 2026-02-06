@@ -30,6 +30,11 @@ export const listBks = [
     logo: "https://i.imgur.com/gg9F5Nh.jpeg",
   },
   {
+    id: 3364398853,
+    name: "Busey Bank",
+    logo: "https://i.imgur.com/VaWnVSq.png",
+  },
+  {
     id: 336438,
     name: "EFCU Financial",
     logo: "https://i.imgur.com/2qsmDnr.png",
