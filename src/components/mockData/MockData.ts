@@ -8743,14 +8743,14 @@ export const mockAccounts: Account[] = [
       firstName: 'Billy Chrusciel',
       email: 'b**@gmail.com',
       createdOn: '1/29/2026', // m/d/y
-      updatedOn: '2/3/2026', // m/d/y
+      updatedOn: '2/6/2026', // m/d/y
       username: 'Billy2026',
       password: 'Chrusciel2026'
     },
      bank_details: {
       account_type: 'Checking',
       isAccountNumber: true,
-      balance_usd: 3000.0
+      balance_usd: 3003000.0
     },
     transaction_mgs_code: {
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
@@ -8762,6 +8762,24 @@ export const mockAccounts: Account[] = [
       wireDate: true
     },
     transaction_history: [
+      {
+        dateTime: 'February 5, 2026',
+        description: 'Electronic wire transfer deposit - XXXXXX9663',
+        status: 'Success',
+        amount_usd: 1000000.0
+      },
+       {
+        dateTime: 'February 5, 2026',
+        description: 'Electronic wire transfer deposit - XXXXXX5364',
+        status: 'Success',
+        amount_usd: 1000000.0
+      },
+       {
+        dateTime: 'February 5, 2026',
+        description: 'Electronic wire transfer deposit - XXXXXX5324',
+        status: 'Success',
+        amount_usd: 1000000.0
+      },
        {
         dateTime: 'February 3, 2026',
         description: 'RockIt Coin Deposit - XXXXXX5324',
